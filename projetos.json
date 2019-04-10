@@ -58,5 +58,41 @@
         "resumo": "Lorem ipsum dolor sit amet…"
       }
     ]
+  },
+  {
+    "título": "Reforma da Previdência",
+    "orgão": "Minitério da Economia",
+    "tipo": "PEC",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Lorem ipsum dolor sit amet…",
+    "status": "Em andamento",
+    "hoje": "CCJ da Câmara",
+    "etapas": [
+      {
+        "título": "Apresentação do Projeto",
+        "data": "2019-12-31",
+        "link": "httsp://estadao.com.br/noticia…",
+        "resumo": "Lorem ipsum dolor sit amet…"
+      },
+      {
+        "título": "CCJ da Câmara",
+        "data": "2019-12-31",
+        "link": "httsp://estadao.com.br/noticia…",
+        "resumo": "Lorem ipsum dolor sit amet…"
+      },
+      {
+        "título": "Comissão especial",
+        "data": "2019-12-31",
+        "link": "httsp://estadao.com.br/noticia…",
+        "resumo": "Lorem ipsum dolor sit amet…"
+      },
+      {
+        "título": "C1missão especial",
+        "data": "2019-12-31",
+        "link": "httsp://estadao.com.br/noticia…",
+        "resumo": "Lorem ipsum dolor sit amet…"
+      }
+    ]
   }
 ]
