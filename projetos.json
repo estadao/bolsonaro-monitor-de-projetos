@@ -23,27 +23,27 @@
       },
       {
         "título": "Comissão especial",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenário da Câmara em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "CCJ do Senado",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenário do Senado em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
@@ -65,15 +65,15 @@
       },
       {
         "título": "Comissões",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenários em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
@@ -95,15 +95,15 @@
       },
       {
         "título": "Comissões",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenários em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
@@ -119,39 +119,39 @@
     "etapas": [
       {
         "título": "Apresentação do Projeto",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "CCJ da Câmara",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Comissão especial",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenário da Câmara em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "CCJ do Senado",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenário do Senado em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
@@ -164,7 +164,7 @@
     "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
     "status": "Aguardando ação",
     "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": NULL
+    "etapas": null
   },
   {
     "título": "Autonomia do Banco Central",
@@ -178,21 +178,21 @@
     "etapas": [
       {
         "título": "Apresentação do Projeto na Câmara",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Comissões",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenários em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
@@ -245,7 +245,7 @@
       {
         "título": "Assinatura da portaria",
         "data": "2019-01-30",
-        "link": NULL,
+        "link": null,
         "resumo": "Portaria assinada por Tereza Cristina altera a publicada em agosto de 2018, que fixava a validade da DAP até 27 de fevereiro e o prazo para a emissão em um ano",
       }
     ]
@@ -259,7 +259,7 @@
     "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
     "status": "Em andamento",
     "hoje": "Anúncio de oficialização",
-    "etapas": NULL
+    "etapas": null
   },
   {
     "título": "Ensino domiciliar",
@@ -273,21 +273,21 @@
     "etapas": [
       {
         "título": "Apresentação do Projeto na Câmara",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Comissões",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       },
       {
         "título": "Plenários em dois turnos",
-        "data": NULL,
-        "link": NULL,
-        "resumo": NULL
+        "data": null,
+        "link": null,
+        "resumo": null
       }
     ]
   },
