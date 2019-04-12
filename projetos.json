@@ -164,7 +164,7 @@
     "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
     "status": "Aguardando ação",
     "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": null
+    "etapas": []
   },
   {
     "título": "Autonomia do Banco Central",
@@ -259,7 +259,7 @@
     "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
     "status": "Em andamento",
     "hoje": "Anúncio de oficialização",
-    "etapas": null
+    "etapas": []
   },
   {
     "título": "Ensino domiciliar",
