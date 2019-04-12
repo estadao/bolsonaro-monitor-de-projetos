@@ -5,27 +5,45 @@
     "tipo": "PEC",
     "número": 6,
     "ano": 2019,
-    "resumo": "Lorem ipsum dolor sit amet…",
+    "resumo": "Considerada a principal meta do governo. vai mudar as regras do sistema previdenciário brasileiro com o objetivo de conter as contas públicas",
     "status": "Em andamento",
     "hoje": "CCJ da Câmara",
     "etapas": [
       {
         "título": "Apresentação do Projeto",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": "2019-02-20",
+        "link": "https://economia.estadao.com.br/ao-vivo/entregatextoprevidencia",
+        "resumo": "A proposta da reforma da Previdência vai garantir uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Bolsonaro, a economia esperada será de R$ 189 bilhões."
       },
       {
         "título": "CCJ da Câmara",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": "2019-04-03",
+        "link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-veja-os-principais-pontos-discutidos-por-guedes-na-ccj,70002778571",
+        "resumo": "A proposta está sendo discutida na Comissão de Constituição e Justiça. onde o ministro Paulo Guedes já falou sobre o projeto."
       },
       {
         "título": "Comissão especial",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenário da Câmara em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "CCJ do Senado",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenário do Senado em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       }
     ]
   },
@@ -35,63 +53,259 @@
     "tipo": "PL",
     "número": 6,
     "ano": 2019,
-    "resumo": "Lorem ipsum dolor sit amet…",
+    "resumo": "Principal projeto do ministro Sergio Moro para a área de segurança pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
     "status": "Em andamento",
-    "hoje": "CCJ da Câmara",
+    "hoje": "Apresentação no Senado (em discussão)",
     "etapas": [
       {
-        "título": "Apresentação do Projeto",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "título": "Apresentação do Projeto na Câmara e no Senado",
+        "data": "2019-04-01",
+        "link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
+        "resumo": "Após um acordo com o presidente da Câmara, Rodrigo Maia (DEM-RJ), os três projetos passaram a tramitar em paralelo tanto na Câmara como no Senado, neste caso por meio de projetos de lei “adotados” por senadores."
       },
       {
-        "título": "CCJ da Câmara",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "título": "Comissões",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       },
       {
-        "título": "Comissão especial",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "título": "Plenários em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       }
     ]
   },
   {
-    "título": "Reforma da Previdência",
+    "título": "Escola sem Partido",
+    "orgão": "Minitério da Educação",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Bandeira política de Bolsonaro, projeto diz tentar evitar a doutrinação ideológica em sala de aula. Diversas versões do projeto já foram apresentadas na Câmara desde 2014",
+    "status": "Em andamento",
+    "hoje": "Apresentação do projeto na Câmara",
+    "etapas": [
+      {
+        "título": "Apresentação do Projeto na Câmara e no Senado",
+        "data": "2019-02-05",
+        "link": "https://educacao.estadao.com.br/noticias/geral,novo-escola-sem-partido-preve-gravacao-de-aulas,70002709394",
+        "resumo": "A deputada Bia Kicis (PSL-DF) protocolou um projet. Ela quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
+      },
+      {
+        "título": "Comissões",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenários em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      }
+    ]
+  },
+  {
+    "título": "Reforma tributária",
     "orgão": "Minitério da Economia",
     "tipo": "PEC",
     "número": 6,
     "ano": 2019,
-    "resumo": "Lorem ipsum dolor sit amet…",
+    "resumo": "Bandeira eleitoral de Bolsonaro, visa simplificar os impostos no País. O governo acompanha a tramitação da PEC 293/04 e ainda discute o projeto",
     "status": "Em andamento",
-    "hoje": "CCJ da Câmara",
+    "hoje": "Plenário da Câmara",
     "etapas": [
       {
         "título": "Apresentação do Projeto",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       },
       {
         "título": "CCJ da Câmara",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       },
       {
         "título": "Comissão especial",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
       },
       {
-        "título": "C1missão especial",
-        "data": "2019-12-31",
-        "link": "httsp://estadao.com.br/noticia…",
-        "resumo": "Lorem ipsum dolor sit amet…"
+        "título": "Plenário da Câmara em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "CCJ do Senado",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenário do Senado em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      }
+    ]
+  },
+  {
+    "título": "Mudar embaixada do Brasil em Israel",
+    "orgão": "Ministério das Relações Exteriores",
+    "tipo": "Não requer ação oficial",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
+    "status": "Aguardando ação",
+    "hoje": "Apresentação no Senado (em discussão)",
+    "etapas": NULL
+  },
+  {
+    "título": "Autonomia do Banco Central",
+    "orgão": "Banco Central",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "O governo diz querer 'consagrar em lei a situação de facto hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
+    "status": "Em andamento",
+    "hoje": "Projeto assinado, ainda não protocolado na Câmara",
+    "etapas": [
+      {
+        "título": "Apresentação do Projeto na Câmara",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Comissões",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenários em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      }
+    ]
+  },
+  {
+    "título": "Flexibilizar posse de armas",
+    "orgão": "Ministério da Justiça e Segurança Pública",
+    "tipo": "Decreto",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Outra promessa feita em campanha. Decreto assinado deve ser complementado por portarias e atos administrativos.",
+    "status": "Concluído",
+    "hoje": "Decreto assinado",
+    "etapas": [
+      {
+        "título": "Assinatura do decreto",
+        "data": "2019-01-15",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
+        "resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse",
+      }
+    ]
+  },
+  {
+    "título": "Programa Alfabetização acima de tudo",
+    "orgão": "Ministério da Educação",
+    "tipo": "Decreto",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Programa nacional de definição de soluções didáticas e pedagógicas para alfabetização, com a proposição de método para redução do analfabetismo a partir de evidências científicas.",
+    "status": "Em andamento",
+    "hoje": "Decreto assinado",
+    "etapas": [
+      {
+        "título": "Assinatura do decreto",
+        "data": "2019-04-11",
+        "link": "https://economia.estadao.com.br/noticias/geral,bolsonaro-assina-projeto-de-lei-da-autonomia-do-banco-central,70002787462",
+        "resumo": "A medida, segundo a Secom, estabelece as 'diretrizes para as futuras ações e programas do governo' com o objetivo de reduzir o analfabetismo. O texto ainda não foi divulgado.",
+      }
+    ]
+  },
+  {
+    "título": "Ampliação do prazo de validade da DAP do Pronaf",
+    "orgão": "Ministério da Agricultura",
+    "tipo": "Portaria ministerial",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Alteração do prazo de validade da Declaração de Aptidão (DAP) ao Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) de um para dois anos",
+    "status": "Concluído",
+    "hoje": "Portaria assinada",
+    "etapas": [
+      {
+        "título": "Assinatura da portaria",
+        "data": "2019-01-30",
+        "link": NULL,
+        "resumo": "Portaria assinada por Tereza Cristina altera a publicada em agosto de 2018, que fixava a validade da DAP até 27 de fevereiro e o prazo para a emissão em um ano",
+      }
+    ]
+  },
+  {
+    "título": "13º do Bolsa Família",
+    "orgão": "Ministério da Cidadania",
+    "tipo": "Decreto ou Alteração na LOA",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
+    "status": "Em andamento",
+    "hoje": "Anúncio de oficialização",
+    "etapas": NULL
+  },
+  {
+    "título": "Ensino domiciliar",
+    "orgão": "Ministério da Mulher, Família e Direitos Humanos e Ministério da Educação",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Regulamentar o direito à educação domiciliar, reconhecido pelo STF, por meio de Medida Provisória, beneficiando 31 mil famílias que se utilizam desse modo de aprendizagem. ",
+    "status": "Em andamento",
+    "hoje": "Projeto assinado, ainda não protocolado na Câmara",
+    "etapas": [
+      {
+        "título": "Apresentação do Projeto na Câmara",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Comissões",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      },
+      {
+        "título": "Plenários em dois turnos",
+        "data": NULL,
+        "link": NULL,
+        "resumo": NULL
+      }
+    ]
+  },
+  {
+    "título": "Revisão de benefícios do INSS",
+    "orgão": "Ministério da Economia",
+    "tipo": "Medida provisória",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Pente-fino do INSS que pode gerar uma economia de R$ 9,8 bi aos cofres públicos",
+    "status": "Concluído",
+    "hoje": "MP editada",
+    "etapas": [
+      {
+        "título": "MP editada",
+        "data": "2019-01-18",
+        "link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
+        "resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP",
       }
     ]
   }
