@@ -10,37 +10,57 @@
     "hoje": "Comissão especial",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Apresentação do Projeto",
         "data": "2019-02-20",
         "link": "https://economia.estadao.com.br/ao-vivo/entregatextoprevidencia",
         "resumo": "A proposta da reforma da Previdência vai garantir uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Bolsonaro, a economia esperada será de R$ 189 bilhões."
       },
       {
+        "finalizada": true,
         "título": "CCJ da Câmara",
         "data": "2019-04-24",
         "link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-e-aprovada-na-ccj-por-48-votos-a-favor-e-18-contra,70002801858",
         "resumo": "Depois de 62 dias, a CCJ da Câmara deu o sinal verde para a proposta, que segue agora para análise de mérito na comissão especial. A admissibilidade foi aprovada por 48 votos a 18."
       },
       {
+        "finalizada": false,
         "título": "Comissão especial",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenário da Câmara em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
         "título": "CCJ do Senado",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenário do Senado em dois turnos",
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -58,6 +78,7 @@
     "hoje": "Apresentação no Senado (em discussão)",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Apresentação do Projeto na Câmara e no Senado",
         "data": "2019-04-01",
         "link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
@@ -70,7 +91,36 @@
         "resumo": null
       },
       {
-        "título": "Plenários em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "CCJ do Senado",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -88,19 +138,50 @@
     "hoje": "Apresentação do projeto na Câmara",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Apresentação do Projeto na Câmara e no Senado",
         "data": "2019-02-05",
         "link": "https://educacao.estadao.com.br/noticias/geral,novo-escola-sem-partido-preve-gravacao-de-aulas,70002709394",
         "resumo": "A deputada Bia Kicis (PSL-DF) protocolou um projet. Ela quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
       },
       {
+        "finalizada": false,
+        "título": "Apresentação do Projeto no Senado",
+        "data": "",
+        "link": "",
+        "resumo": ""
+      },
+      {
+        "finalizada": false,
         "título": "Comissões",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenários em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -118,37 +199,57 @@
     "hoje": "Plenário da Câmara",
     "etapas": [
       {
-        "título": "Apresentação do Projeto",
+        "finalizada": false,
+        "título": "Apresentação do Projeto na Câmara",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
         "título": "CCJ da Câmara",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
         "título": "Comissão especial",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenário da Câmara em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
         "título": "CCJ do Senado",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenário do Senado em dois turnos",
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -177,19 +278,43 @@
     "hoje": "Projeto assinado, ainda não protocolado na Câmara",
     "etapas": [
       {
+        "finalizada": false,
         "título": "Apresentação do Projeto na Câmara",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
         "título": "Comissões",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenários em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -207,6 +332,7 @@
     "hoje": "Decreto assinado",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Assinatura do decreto",
         "data": "2019-01-15",
         "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
@@ -225,6 +351,7 @@
     "hoje": "Decreto assinado",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Assinatura do decreto",
         "data": "2019-04-11",
         "link": "https://economia.estadao.com.br/noticias/geral,bolsonaro-assina-projeto-de-lei-da-autonomia-do-banco-central,70002787462",
@@ -243,6 +370,7 @@
     "hoje": "Portaria assinada",
     "etapas": [
       {
+        "finalizada": true,
         "título": "Assinatura da portaria",
         "data": "2019-01-30",
         "link": null,
@@ -272,19 +400,43 @@
     "hoje": "Projeto assinado, ainda não protocolado na Câmara",
     "etapas": [
       {
+        "finalizada": false,
         "título": "Apresentação do Projeto na Câmara",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
+        "finalizada": false,
         "título": "Comissões",
         "data": null,
         "link": null,
         "resumo": null
       },
       {
-        "título": "Plenários em dois turnos",
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
         "data": null,
         "link": null,
         "resumo": null
@@ -302,6 +454,7 @@
     "hoje": "MP editada",
     "etapas": [
       {
+        "finalizada": true,
         "título": "MP editada",
         "data": "2019-01-18",
         "link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
