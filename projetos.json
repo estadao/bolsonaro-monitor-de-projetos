@@ -5,7 +5,7 @@
     "tipo": "PEC",
     "número": 6,
     "ano": 2019,
-    "resumo": "Considerada a principal meta do governo. vai mudar as regras do sistema previdenciário brasileiro com o objetivo de conter as contas públicas",
+    "resumo": "Considerada a principal meta do governo, a reforma vai mudar as regras do sistema previdenciário brasileiro com o objetivo de conter o déficits das contas públicas",
     "status": "Em andamento",
     "hoje": "Comissão especial",
     "etapas": [
@@ -14,7 +14,7 @@
         "título": "Apresentação do Projeto",
         "data": "2019-02-20",
         "link": "https://economia.estadao.com.br/ao-vivo/entregatextoprevidencia",
-        "resumo": "A proposta da reforma da Previdência vai garantir uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Bolsonaro, a economia esperada será de R$ 189 bilhões."
+        "resumo": "A proposta da reforma da Previdência vai garantir uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
       },
       {
         "finalizada": true,
@@ -73,7 +73,7 @@
     "tipo": "PL",
     "número": 6,
     "ano": 2019,
-    "resumo": "Principal projeto do ministro Sergio Moro para a área de segurança pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
+    "resumo": "Principal projeto do ministro Sérgio Moro para a área de Segurança Pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
     "status": "Em andamento",
     "hoje": "Apresentação no Senado (em discussão)",
     "etapas": [
@@ -142,7 +142,7 @@
         "título": "Apresentação do Projeto na Câmara e no Senado",
         "data": "2019-02-05",
         "link": "https://educacao.estadao.com.br/noticias/geral,novo-escola-sem-partido-preve-gravacao-de-aulas,70002709394",
-        "resumo": "A deputada Bia Kicis (PSL-DF) protocolou um projet. Ela quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
+        "resumo": "Projeto protocolado pela deputada Bia Kicis (PSL-DF) quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
       },
       {
         "finalizada": false,
@@ -273,7 +273,7 @@
     "tipo": "PL",
     "número": 6,
     "ano": 2019,
-    "resumo": "O governo diz querer 'consagrar em lei a situação de facto hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
+    "resumo": "O governo diz querer 'consagrar em lei a situação de fato hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
     "status": "Em andamento",
     "hoje": "Projeto assinado, ainda não protocolado na Câmara",
     "etapas": [
