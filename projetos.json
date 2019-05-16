@@ -257,19 +257,6 @@
     ]
   },
   {
-    "título": "Mudar embaixada do Brasil em Israel",
-    "orgão": "Ministério das Relações Exteriores",
-    "tipo": "Não requer ação oficial",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
-    "status": "Aguardando ação",
-    "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": [
-
-    ]
-  },
-  {
     "título": "Autonomia do Banco Central",
     "orgão": "Banco Central",
     "tipo": "PL",
@@ -381,19 +368,6 @@
     ]
   },
   {
-    "título": "13º do Bolsa Família",
-    "orgão": "Ministério da Cidadania",
-    "tipo": "Decreto ou Alteração na LOA",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
-    "status": "Aguardando ação",
-    "hoje": "Anúncio de oficialização",
-    "etapas": [
-
-    ]
-  },
-  {
     "título": "Ensino domiciliar",
     "orgão": "Ministério da Mulher, Família e Direitos Humanos e Ministério da Educação",
     "tipo": "PL",
@@ -465,5 +439,31 @@
         "resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP"
       }
     ]
-  }
+  },
+  {
+    "título": "Mudar embaixada do Brasil em Israel",
+    "orgão": "Ministério das Relações Exteriores",
+    "tipo": "Não requer ação oficial",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
+    "status": "Aguardando ação",
+    "hoje": "Apresentação no Senado (em discussão)",
+    "etapas": [
+
+    ]
+   },
+   {
+    "título": "13º do Bolsa Família",
+    "orgão": "Ministério da Cidadania",
+    "tipo": "Decreto ou Alteração na LOA",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
+    "status": "Aguardando ação",
+    "hoje": "Anúncio de oficialização",
+    "etapas": [
+
+    ]
+   }
 ]
