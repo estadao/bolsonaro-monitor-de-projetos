@@ -27,8 +27,8 @@
         "finalizada": false,
         "título": "Comissão especial",
         "data": null,
-        "link": null,
-        "resumo": null
+        "link": "https://economia.estadao.com.br/noticias/geral,maia-pede-a-relator-que-apresente-texto-da-reforma-da-previdencia-antes-do-dia-15,70002846602!,
+        "resumo": "Maia quer quer o relator apresente o texto da reforma da Previdência antes do dia 15 de junho"
       },
       {
         "finalizada": false,
@@ -194,23 +194,23 @@
     "tipo": "PEC",
     "número": 6,
     "ano": 2019,
-    "resumo": "Bandeira eleitoral de Bolsonaro, visa simplificar os impostos no País. O governo acompanha a tramitação da PEC 293/04 e ainda discute o projeto",
+    "resumo": "Bandeira eleitoral de Bolsonaro, visa simplificar os impostos no País. Sem ação do governo, deputados fazem avançar uma proposta própria",
     "status": "Em andamento",
-    "hoje": "Plenário da Câmara",
+    "hoje": "Comissão especial",
     "etapas": [
       {
-        "finalizada": false,
+        "finalizada": true,
         "título": "Apresentação do Projeto na Câmara",
-        "data": null,
-        "link": null,
-        "resumo": null
+        "data": "2019-05-22",
+        "link": "https://economia.estadao.com.br/noticias/geral,camara-desiste-de-esperar-governo-e-avanca-com-reforma-tributaria-propria,70002838304",
+        "resumo": "Câmara desiste de esperar governo e avança com reforma tributária própria"
       },
       {
-        "finalizada": false,
+        "finalizada": true,
         "título": "CCJ da Câmara",
-        "data": null,
-        "link": null,
-        "resumo": null
+        "data": "2019-05-22",
+        "link": "https://economia.estadao.com.br/noticias/geral,francischini-diz-que-vai-convocar-ccj-extraordinaria-para-votar-reforma-tributaria,70002838957",
+        "resumo": "Câmara aprovou a admissibilidade da reforma tributária de autoria do líder do MDB, Baleia Rossi (SP)"
       },
       {
         "finalizada": false,
@@ -264,14 +264,14 @@
     "ano": 2019,
     "resumo": "O governo diz querer 'consagrar em lei a situação de fato hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
     "status": "Em andamento",
-    "hoje": "Projeto assinado, ainda não protocolado na Câmara",
+    "hoje": "Projeto enviado à Câmara",
     "etapas": [
       {
-        "finalizada": false,
+        "finalizada": true,
         "título": "Apresentação do Projeto na Câmara",
-        "data": null,
-        "link": null,
-        "resumo": null
+        "data": "2019-04-10",
+        "link": "https://economia.estadao.com.br/noticias/geral,onyx-diz-que-projeto-de-autonomia-do-bc-faz-apenas-ajustes-em-texto-que-ja-tramita-na-camara,70002787726",
+        "resumo": "Onyx diz que projeto de autonomia do BC faz apenas 'ajustes' em texto que já tramita na Câmara"
       },
       {
         "finalizada": false,
@@ -330,6 +330,25 @@
     ]
   },
   {
+    "título": "Flexibilizar porte de armas",
+    "orgão": "Ministério da Justiça e Segurança Pública",
+    "tipo": "Decreto",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Decreto assinado deve ser complementado por portarias e atos administrativos.",
+    "status": "Concluído",
+    "hoje": "Decreto assinado",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "Assinatura do decreto",
+        "data": "2019-05-21",
+        "link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
+        "resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum"
+      }
+    ]
+  },
+  {
     "título": "Programa Alfabetização acima de tudo",
     "orgão": "Ministério da Educação",
     "tipo": "Decreto",
@@ -373,16 +392,16 @@
     "tipo": "PL",
     "número": 6,
     "ano": 2019,
-    "resumo": "Regulamentar o direito à educação domiciliar, reconhecido pelo STF, por meio de Medida Provisória, beneficiando 31 mil famílias que se utilizam desse modo de aprendizagem. ",
+    "resumo": "Regulamentar o direito à educação domiciliar, reconhecido pelo STF, por meio de Medida Provisória, beneficiando famílias que se utilizam desse modo de aprendizagem. ",
     "status": "Em andamento",
-    "hoje": "Projeto assinado, ainda não protocolado na Câmara",
+    "hoje": "Projeto apresentado à Câmara",
     "etapas": [
       {
-        "finalizada": false,
+        "finalizada": true,
         "título": "Apresentação do Projeto na Câmara",
-        "data": null,
-        "link": null,
-        "resumo": null
+        "data": "2019-04-12",
+        "link": "https://educacao.estadao.com.br/noticias/geral,ao-avancar-no-ensino-domiciliar-bolsonaro-prioriza-7-mil-em-vez-de-trabalhar-para-45-milhoes,70002788558",
+        "resumo": "Homeschooling se tornou uma pauta da bancada evangélica, que ajudou a eleger Bolsonaro"
       },
       {
         "finalizada": false,
