@@ -1,5 +1,84 @@
 [
   {
+    "título": "Novas regras da CNH",
+    "orgão": "Ministério da Infraestrutura",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa de campanha, presidente quer aumentar validade da carteira de habilitação e também número de pontos para suspensão da habilitação",
+    "status": "Em andamento",
+    "hoje": "Apresentação na Câmara (em discussão)",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "Apresentação do Projeto na Câmara",
+        "data": "2019-06-04",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-entrega-ao-congresso-projeto-que-quer-alterar-a-cnh,70002855530",
+        "resumo": "A proposta entregue por Jair Bolsonaro dobra o número de pontos para a suspensão da Carteira Nacional de Habilitação (CNH) de 20 para 40 e também duplica a validade do documento, passando para dez anos."
+      },
+      {
+        "título": "Comissões",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "CCJ do Senado",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      }
+    ]
+  },
+  {
+    "título": "Revisão de benefícios do INSS",
+    "orgão": "Ministério da Economia",
+    "tipo": "Medida provisória",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Pente-fino do INSS que pode gerar uma economia de R$ 9,8 bi aos cofres públicos. MP foi aprovada pelo Senado em 4 de junho",
+    "status": "Concluído",
+    "hoje": "MP editada",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "MP editada",
+        "data": "2019-01-18",
+        "link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
+        "resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP"
+      }
+    ]
+  },
+  {
     "título": "Reforma da Previdência",
     "orgão": "Ministério da Economia",
     "tipo": "PEC",
@@ -256,66 +335,6 @@
       }
     ]
   },
-   {
-    "título": "Novas regras da CNH",
-    "orgão": "Ministério da Infraestrutura",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Promessa de campanha, presidente quer aumentar validade da carteira de habilitação e também número de pontos para suspensão da habilitação",
-    "status": "Em andamento",
-    "hoje": "Apresentação na Câmara (em discussão)",
-    "etapas": [
-      {
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-06-04",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-entrega-ao-congresso-projeto-que-quer-alterar-a-cnh,70002855530",
-        "resumo": "A proposta entregue por Jair Bolsonaro dobra o número de pontos para a suspensão da Carteira Nacional de Habilitação (CNH) de 20 para 40 e também duplica a validade do documento, passando para dez anos."
-      },
-      {
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "CCJ do Senado",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
   {
     "título": "Autonomia do Banco Central",
     "orgão": "Banco Central",
@@ -497,25 +516,6 @@
         "data": null,
         "link": null,
         "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Revisão de benefícios do INSS",
-    "orgão": "Ministério da Economia",
-    "tipo": "Medida provisória",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Pente-fino do INSS que pode gerar uma economia de R$ 9,8 bi aos cofres públicos",
-    "status": "Concluído",
-    "hoje": "MP editada",
-    "etapas": [
-      {
-        "finalizada": true,
-        "título": "MP editada",
-        "data": "2019-01-18",
-        "link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
-        "resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP"
       }
     ]
   },
