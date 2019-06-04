@@ -256,6 +256,67 @@
       }
     ]
   },
+   {
+    "título": "Novas regras da CNH",
+    "orgão": "Ministério da Infraestrutura",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa de campanha, presidente quer aumentar validade da carteira de habilitação e também número de pontos para suspensão da habilitação.
+.",
+    "status": "Em andamento",
+    "hoje": "Apresentação na Câmara (em discussão)",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "Apresentação do Projeto na Câmara",
+        "data": "2019-04-06",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-entrega-ao-congresso-projeto-que-quer-alterar-a-cnh,70002855530",
+        "resumo": ".A proposta entregue por Jair Bolsonaro dobra o número de pontos para a suspensão da Carteira Nacional de Habilitação (CNH) de 20 para 40 e também duplica a validade do documento, passando para dez anos."
+      },
+      {
+        "título": "Comissões",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário da Câmara – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "CCJ do Senado",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Primeiro Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      },
+      {
+        "finalizada": false,
+        "título": "Plenário do Senado – Segundo Turno",
+        "data": null,
+        "link": null,
+        "resumo": null
+      }
+    ]
+  },
   {
     "título": "Autonomia do Banco Central",
     "orgão": "Banco Central",
