@@ -1,5 +1,43 @@
 [
   {
+    "título": "Flexibilizar posse de armas (direito de adquirir uma arma)",
+    "orgão": "Ministério da Justiça e Segurança Pública",
+    "tipo": "Decreto",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa feita em campanha. Decreto assinado em janeiro, mas alvo de um Projeto de Decreto Legislativo aprovado na terça, 18 de junho, que o susta.",
+    "status": "Concluído",
+    "hoje": "Decreto assinado",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "Assinatura do decreto",
+        "data": "2019-01-15",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
+        "resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+      }
+    ]
+  },
+  {
+    "título": "Flexibilizar porte de armas (direito de ter e circular com uma arma)",
+    "orgão": "Ministério da Justiça e Segurança Pública",
+    "tipo": "Decreto",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Decreto assinado em maio, mas alvo de um Projeto de Decreto Legislativo aprovado na terça, 18 de junho, que o susta.",
+    "status": "Concluído",
+    "hoje": "Decreto assinado",
+    "etapas": [
+      {
+        "finalizada": true,
+        "título": "Assinatura do decreto",
+        "data": "2019-05-21",
+        "link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
+        "resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+      }
+    ]
+  },
+  {
     "título": "Reforma da Previdência",
     "orgão": "Ministério da Economia",
     "tipo": "PEC",
@@ -386,44 +424,6 @@
         "data": null,
         "link": null,
         "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Flexibilizar posse de armas",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "Decreto",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Outra promessa feita em campanha. Decreto assinado deve ser complementado por portarias e atos administrativos.",
-    "status": "Concluído",
-    "hoje": "Decreto assinado",
-    "etapas": [
-      {
-        "finalizada": true,
-        "título": "Assinatura do decreto",
-        "data": "2019-01-15",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
-        "resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse"
-      }
-    ]
-  },
-  {
-    "título": "Flexibilizar porte de armas",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "Decreto",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Decreto assinado deve ser complementado por portarias e atos administrativos.",
-    "status": "Concluído",
-    "hoje": "Decreto assinado",
-    "etapas": [
-      {
-        "finalizada": true,
-        "título": "Assinatura do decreto",
-        "data": "2019-05-21",
-        "link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
-        "resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum"
       }
     ]
   },
