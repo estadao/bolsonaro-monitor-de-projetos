@@ -5,9 +5,9 @@
     "tipo": "Decreto",
     "número": 6,
     "ano": 2019,
-    "resumo": "Promessa feita em campanha. Decreto assinado em janeiro, mas alvo de um Projeto de Decreto Legislativo aprovado na terça, 18 de junho, que o susta.",
-    "status": "Concluído",
-    "hoje": "Decreto assinado",
+    "resumo": "Decreto assinado em janeiro, foi alvo de um Projeto de Decreto Legislativo que o sustaria. Decredo revogado",
+    "status": "Cancelado",
+    "hoje": "Decreto assinado e posteriormente revogado",
     "etapas": [
       {
         "finalizada": true,
@@ -15,6 +15,13 @@
         "data": "2019-01-15",
         "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
         "resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+      },
+      {
+        "finalizada": true,
+        "título": "Decreto revogado",
+        "data": "2019-06-25",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
+        "resumo": "Bolsonaro decidiu enviar ao Congresso um projeto de lei para tratar de registro, posse e comercialização de armas de fogo e munição e também sobre o Sistema Nacional de Armas"
       }
     ]
   },
@@ -24,9 +31,9 @@
     "tipo": "Decreto",
     "número": 6,
     "ano": 2019,
-    "resumo": "Decreto assinado em maio, mas alvo de um Projeto de Decreto Legislativo aprovado na terça, 18 de junho, que o susta.",
-    "status": "Concluído",
-    "hoje": "Decreto assinado",
+    "resumo": "Decreto assinado em maio, também alvo do mesmo Projeto de Decreto Legislativo que o sustaria. Foi revogado",
+    "status": "Cancelado",
+    "hoje": "Decreto assinado e posteriormente revogado",
     "etapas": [
       {
         "finalizada": true,
@@ -34,6 +41,13 @@
         "data": "2019-05-21",
         "link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
         "resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+      },
+       {
+        "finalizada": true,
+        "título": "Decreto revogado",
+        "data": "2019-06-25",
+        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
+        "resumo": "Bolsonaro revoga decreto de porte, assim como o de posse de armas"
       }
     ]
   },
