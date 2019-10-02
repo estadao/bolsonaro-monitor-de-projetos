@@ -52,11 +52,11 @@
         "resumo": "Após passar pela CCJ do Senado em setembro e depois ser votada com um novo parecer do senador Tasso Jereissati (PSDB), o texto da reforma foi aprovado no dia 1º por 17 votos a 9"
       },
       {
-        "finalizada": false,
+        "finalizada": true,
         "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
+        "data": "2019-10-01",
+        "link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-texto-base-da-reforma-da-previdencia-em-1-turno-por-56-votos-a-19,70003033318"
+        "resumo": "O plenário do Senado aprovou, por 56 votos a 19, o texto-base da reforma da Previdência em primeiro turno. Economia esperada em dez anos é de R$ 800,3 bilhões."
       },
       {
         "finalizada": false,
