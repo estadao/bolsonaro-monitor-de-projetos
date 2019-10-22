@@ -100,6 +100,24 @@
       }
     ]
   },
+  {
+    "título": "13º do Bolsa Família",
+    "orgão": "Ministério da Cidadania",
+    "tipo": "Decreto ou Alteração na LOA",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Promessa de campanha.",
+    "status": "Concluído",
+    "hoje": "MP assinada",
+    "etapas": [{
+        "finalizada": true,
+        "título": "Plenário do Senado – Segundo Turno",
+        "data": "2019-10-15",
+        "link": "https://economia.estadao.com.br/noticias/geral,bolsonaro-diz-que-13-do-bolsa-familia-foi-lancado-para-mostrar-que-governo-quer-manter-programa,70003051199",
+        "resumo": "Apesar da promessa na campanha, reiterada nos primeiros meses de governo, o pagamento só foi oficializado após aumento de R$ R$ 2,58 bilhões no orçamento do Ministério da Cidadania, garantida no Relatório de Receitas e Despesas Primárias do Primeiro Bimestre de 2019."
+      }
+    ]
+   },
    {
     "título": "Flexibilização da posse de armas",
     "orgão": "Ministério da Justiça e Segurança Pública",
@@ -575,19 +593,6 @@
     "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
     "status": "Aguardando ação",
     "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": [
-
-    ]
-  },
-  {
-    "título": "13º do Bolsa Família",
-    "orgão": "Ministério da Cidadania",
-    "tipo": "Decreto ou Alteração na LOA",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
-    "status": "Aguardando ação",
-    "hoje": "Anúncio de oficialização",
     "etapas": [
 
     ]
