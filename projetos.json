@@ -63,6 +63,63 @@
         "data": "2019-10-22",
         "link": "https://economia.estadao.com.br/noticias/geral,apos-mais-de-20-anos-e-cinco-presidentes-reforma-da-previdencia-e-aprovada,70003059826",
         "resumo": "Após anos de tentativas empreendidas por diferentes governos, o Congresso Nacional aprovou a criação de uma idade mínima para aposentadoria no Brasil."
+      },
+      {
+        "finalizada": true,
+        "título": "Reforma passa a valer",
+        "data": "2019-11-12",
+        "link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-passa-a-valer-hoje-saiba-o-que-muda,70003085758",
+        "resumo": "Após oito meses de tramitação no Congresso, texto com mudanças na aposentadoria foi promulgado nesta terça-feira (12)."
+      }
+    ]
+  },
+  {
+    "título": "Reforma da Previdência dos Militares",
+    "orgão": "Ministério da Defesa",
+    "tipo": "PEC",
+    "número": 0,
+    "ano": 2019,
+    "resumo": "O Ministério da Defesa encaminhou ao Ministério da Economia, em março, a reforma da previdência dos militares, com modificações em cinco leis.",
+    "status": "Concluído",
+    "hoje": "Comissão especial",
+    "etapas": [{
+        "finalizada": true,
+        "título": "Apresentação do Projeto",
+        "data": "2019-03-13",
+        "link": "https://economia.estadao.com.br/noticias/geral,ministerio-da-defesa-entrega-proposta-de-reforma-da-previdencia-de-militares-a-economia,70002754561",
+        "resumo": "A proposta inicial da reforma da Previdência previa uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
+      },
+      {
+        "finalizada": true,
+        "título": "Câmara aprova texto",
+        "data": "2019-10-23",
+        "link": "https://economia.estadao.com.br/noticias/geral,comissao-da-camara-aprova-novas-regras-para-previdencia-de-militares,70003060936",
+        "resumo": "A comissão especial da Câmara dos Deputados que analisa a reforma da Previdência dos militares aprovou em outubro o texto-base do projeto de lei que altera as regras de aposentadoria dos integrantes das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares."
+      },
+      {
+        "finalizada": true,
+        "título": "Aprovação pelo Senado",
+        "data": "2019-12-03",
+        "link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-reforma-da-previdencia-de-militares-com-aumento-de-salario-para-a-carreira,70003113772",
+        "resumo": "O plenário do Senado aprovou em votação simbólica, nesta quarta-feira, 4, o projeto de reforma na aposentadoria dos militares das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares. Agora, segue para sanção do presidente da República."
+      }
+    ]
+  },
+  {
+    "título": "Plano Mais Brasil",
+    "orgão": "Ministério da Economia",
+    "tipo": "PEC",
+    "número": 0,
+    "ano": 2019,
+    "resumo": "Em pacote de reformas, governo propõe dividir R$ 400 bi do pré-sal com Estados e municípios. Medidas também preveem o fim de municípios com até 5 mil habitantes.",
+    "status": "Em andamento",
+    "hoje": "Apresentação do Projeto ao Congresso",
+    "etapas": [{
+        "finalizada": false,
+        "título": "Apresentação do Projeto ao Congresso",
+        "data": "2019-11-05",
+        "link": "https://economia.estadao.com.br/noticias/geral,guedes-entrega-primeira-parte-de-novo-pacote-de-reformas-veja-quais-sao-as-medidas,70003076456",
+        "resumo": "O plano é a principal tentativa da equipe econômica para mudar a gestão das contas públicas nas três esferas de governo, com a criação de um novo marco institucional para o País quase 20 anos depois da aprovação da Lei de Responsabilidade Fiscal (LRF). "
       }
     ]
   },
@@ -137,10 +194,17 @@
       },
       {
         "finalizada": true,
-        "título": "Câmara dos Deputados",
+        "título": "Grupo de trabalho na Câmara analisa projeto",
         "data": "2019-07-09",
         "link": "https://politica.estadao.com.br/noticias/geral,grupo-de-trabalho-da-camara-rejeita-proposta-de-prisao-apos-condenacao-em-2-instancia,70002914370",
         "resumo": "O grupo de trabalho da Câmara dos Deputados criado para analisar o pacote anticrime apresentado pelo ex-juiz Sérgio Moro decidiu, por 7 votos a 6, retirar do texto a possibilidade de prisão após condenação em segunda instância."
+      },
+      {
+        "finalizada": true,
+        "título": "Câmara aprova pacote anticrime ",
+        "data": "2019-12-04",
+        "link": "https://politica.estadao.com.br/noticias/geral,camara-aprova-versao-desidratada-de-pacote-de-moro,70003113933",
+        "resumo": "Após dez meses de negociações, a Câmara aprovou nesta quarta-feira, 4, por 408 votos a favor, 9 contra e 2 abstenções, o pacote anticrime do ministro da Justiça, Sérgio Moro, desidratado e sem as principais propostas apresentadas em fevereiro pelo ex-juiz da Lava Jato."
       },
       {
         "finalizada": true,
