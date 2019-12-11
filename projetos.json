@@ -1,5 +1,58 @@
 [
   {
+    "título": "Pacote anticrime",
+    "orgão": "Ministério da Justiça e Segurança Pública",
+    "tipo": "PL",
+    "número": 6,
+    "ano": 2019,
+    "resumo": "Principal projeto do ministro Sérgio Moro para a área de Segurança Pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
+    "status": "Em andamento",
+    "hoje": "Apresentação no Senado (em discussão)",
+    "etapas": [{
+        "finalizada": true,
+        "título": "Apresentação do Projeto na Câmara e no Senado",
+        "data": "2019-04-01",
+        "link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
+        "resumo": "Após um acordo com o presidente da Câmara, Rodrigo Maia (DEM-RJ), os três projetos passaram a tramitar em paralelo tanto na Câmara como no Senado, neste caso por meio de projetos de lei “adotados” por senadores."
+      },
+      {
+        "finalizada": true,
+        "título": "Grupo de trabalho na Câmara analisa projeto",
+        "data": "2019-07-09",
+        "link": "https://politica.estadao.com.br/noticias/geral,grupo-de-trabalho-da-camara-rejeita-proposta-de-prisao-apos-condenacao-em-2-instancia,70002914370",
+        "resumo": "O grupo de trabalho da Câmara dos Deputados criado para analisar o pacote anticrime apresentado pelo ex-juiz Sérgio Moro decidiu, por 7 votos a 6, retirar do texto a possibilidade de prisão após condenação em segunda instância."
+      },
+      {
+        "finalizada": true,
+        "título": "Câmara aprova pacote anticrime ",
+        "data": "2019-12-04",
+        "link": "https://politica.estadao.com.br/noticias/geral,camara-aprova-versao-desidratada-de-pacote-de-moro,70003113933",
+        "resumo": "Após dez meses de negociações, a Câmara aprovou nesta quarta-feira, 4, por 408 votos a favor, 9 contra e 2 abstenções, o pacote anticrime do ministro da Justiça, Sérgio Moro, desidratado e sem as principais propostas apresentadas em fevereiro pelo ex-juiz da Lava Jato."
+      },
+      {
+        "finalizada": true,
+        "título": "Senado – CCJ",
+        "data": "2019-12-10",
+        "link": "https://politica.estadao.com.br/noticias/geral,ccj-do-senado-aprova-pacote-anticrime-da-camara-e-texto-vai-a-plenario,70003120562",
+        "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou o pacote aprovado pela Câmara e agora o texto vai para o plenário"
+      },
+      {
+        "finalizada": false,
+        "título": "Senado – Plenário - 1º turno",
+        "data": null,
+        "link": null,
+        "resumo": null,
+      },
+      {
+        "finalizada": false,
+        "título": "Senado – Plenário - 2º turno",
+        "data": null,
+        "link": null,
+        "resumo": null,
+      }         
+    ]
+  },
+  {
     "título": "Reforma da Previdência",
     "orgão": "Ministério da Economia",
     "tipo": "PEC",
@@ -175,45 +228,6 @@
       "link": null,
       "resumo": "Portaria assinada por Tereza Cristina altera a publicada em agosto de 2018, que fixava a validade da DAP até 27 de fevereiro e o prazo para a emissão em um ano"
     }]
-  },
-  {
-    "título": "Pacote anticrime",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Principal projeto do ministro Sérgio Moro para a área de Segurança Pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
-    "status": "Em andamento",
-    "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara e no Senado",
-        "data": "2019-04-01",
-        "link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
-        "resumo": "Após um acordo com o presidente da Câmara, Rodrigo Maia (DEM-RJ), os três projetos passaram a tramitar em paralelo tanto na Câmara como no Senado, neste caso por meio de projetos de lei “adotados” por senadores."
-      },
-      {
-        "finalizada": true,
-        "título": "Grupo de trabalho na Câmara analisa projeto",
-        "data": "2019-07-09",
-        "link": "https://politica.estadao.com.br/noticias/geral,grupo-de-trabalho-da-camara-rejeita-proposta-de-prisao-apos-condenacao-em-2-instancia,70002914370",
-        "resumo": "O grupo de trabalho da Câmara dos Deputados criado para analisar o pacote anticrime apresentado pelo ex-juiz Sérgio Moro decidiu, por 7 votos a 6, retirar do texto a possibilidade de prisão após condenação em segunda instância."
-      },
-      {
-        "finalizada": true,
-        "título": "Câmara aprova pacote anticrime ",
-        "data": "2019-12-04",
-        "link": "https://politica.estadao.com.br/noticias/geral,camara-aprova-versao-desidratada-de-pacote-de-moro,70003113933",
-        "resumo": "Após dez meses de negociações, a Câmara aprovou nesta quarta-feira, 4, por 408 votos a favor, 9 contra e 2 abstenções, o pacote anticrime do ministro da Justiça, Sérgio Moro, desidratado e sem as principais propostas apresentadas em fevereiro pelo ex-juiz da Lava Jato."
-      },
-      {
-        "finalizada": true,
-        "título": "Senado – CCJ",
-        "data": "2019-07-10",
-        "link": "https://politica.estadao.com.br/noticias/geral,senado-aprova-novo-texto-de-criminalizacao-do-caixa-dois,70002916187",
-        "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou a criminalização do uso de caixa dois em campanha eleitorais. A proposta é uma das medidas do pacote anticrime apresentado pelo ministro da Justiça e Segurança Pública, Sérgio Moro, no início do ano. O texto aprovado nesta quarta-feira, 10, por 17 votos a dois."
-      }
-    ]
   },
   {
     "título": "Flexibilização da posse de armas",
