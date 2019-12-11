@@ -1,663 +1,659 @@
-[
-  {
-    "título": "Pacote anticrime",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Principal projeto do ministro Sérgio Moro para a área de Segurança Pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
-    "status": "Em andamento",
-    "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara e no Senado",
-        "data": "2019-04-01",
-        "link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
-        "resumo": "Após um acordo com o presidente da Câmara, Rodrigo Maia (DEM-RJ), os três projetos passaram a tramitar em paralelo tanto na Câmara como no Senado, neste caso por meio de projetos de lei “adotados” por senadores."
-      },
-      {
-        "finalizada": true,
-        "título": "Grupo de trabalho na Câmara analisa projeto",
-        "data": "2019-07-09",
-        "link": "https://politica.estadao.com.br/noticias/geral,grupo-de-trabalho-da-camara-rejeita-proposta-de-prisao-apos-condenacao-em-2-instancia,70002914370",
-        "resumo": "O grupo de trabalho da Câmara dos Deputados criado para analisar o pacote anticrime apresentado pelo ex-juiz Sérgio Moro decidiu, por 7 votos a 6, retirar do texto a possibilidade de prisão após condenação em segunda instância."
-      },
-      {
-        "finalizada": true,
-        "título": "Câmara aprova pacote anticrime ",
-        "data": "2019-12-04",
-        "link": "https://politica.estadao.com.br/noticias/geral,camara-aprova-versao-desidratada-de-pacote-de-moro,70003113933",
-        "resumo": "Após dez meses de negociações, a Câmara aprovou nesta quarta-feira, 4, por 408 votos a favor, 9 contra e 2 abstenções, o pacote anticrime do ministro da Justiça, Sérgio Moro, desidratado e sem as principais propostas apresentadas em fevereiro pelo ex-juiz da Lava Jato."
-      },
-      {
-        "finalizada": true,
-        "título": "Senado – CCJ",
-        "data": "2019-12-10",
-        "link": "https://politica.estadao.com.br/noticias/geral,ccj-do-senado-aprova-pacote-anticrime-da-camara-e-texto-vai-a-plenario,70003120562",
-        "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou o pacote aprovado pela Câmara e agora o texto vai para o plenário"
-      },
-      {
-        "finalizada": false,
-        "título": "Senado – Plenário - 1º turno",
-        "data": null,
-        "link": null,
-        "resumo": null,
-      },
-      {
-        "finalizada": false,
-        "título": "Senado – Plenário - 2º turno",
-        "data": null,
-        "link": null,
-        "resumo": null,
-      }         
-    ]
-  },
-  {
-    "título": "Reforma da Previdência",
-    "orgão": "Ministério da Economia",
-    "tipo": "PEC",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Considerada a principal meta do governo, a reforma vai mudar as regras do sistema previdenciário brasileiro com o objetivo de conter o déficit das contas públicas",
-    "status": "Concluído",
-    "hoje": "Comissão especial",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto",
-        "data": "2019-02-20",
-        "link": "https://economia.estadao.com.br/ao-vivo/entregatextoprevidencia",
-        "resumo": "A proposta inicial da reforma da Previdência previa uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
-      },
-      {
-        "finalizada": true,
-        "título": "CCJ da Câmara",
-        "data": "2019-04-24",
-        "link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-e-aprovada-na-ccj-por-48-votos-a-favor-e-18-contra,70002801858",
-        "resumo": "Depois de 62 dias, a CCJ da Câmara deu o sinal verde para a proposta, que segue agora para análise de mérito na comissão especial. A admissibilidade foi aprovada por 48 votos a 18."
-      },
-      {
-        "finalizada": true,
-        "título": "Comissão especial",
-        "data": "2019-07-04",
-        "link": "https://economia.estadao.com.br/ao-vivo/novo-parecer-reforma-da-previdencia",
-        "resumo": "Relatório do deputado Samuel Moreira (PSDB-SP) foi aprovado com 36 votos a favor e 13 contra. Economia em dez anos está estimada em R$ 930 bilhões."
-      },
-      {
-        "finalizada": true,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": "2019-07-10",
-        "link": "https://economia.estadao.com.br/noticias/geral,camara-aprova-texto-base-da-reforma-da-previdencia-em-1-turno,70002916660",
-        "resumo": "A Câmara dos Deputados aprovou com 379 votos em 1º turno nesta quarta-feira, 10, o texto-base da reforma da Previdência. 131 deputados votaram contra o texto."
-      },
-      {
-        "finalizada": true,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": "2019-08-07",
-        "link": "https://economia.estadao.com.br/noticias/geral,camara-aprova-texto-base-da-reforma-e-governo-age-para-evitar-mudancas,70002957896",
-        "resumo": "A Câmara dos Deputados aprovou na madrugada de quarta-feira, 7, em segundo turno, o texto-base da reforma da Previdência por 370 votos a 124."
-      },
-      {
-        "finalizada": true,
-        "título": "CCJ do Senado",
-        "data": "2019-10-01",
-        "link": "https://economia.estadao.com.br/ao-vivo/ccj-senado-vota-reforma-da-previdencia?utm_source=webpush_notificacao&utm_medium=webpush_notificacao&utm_campaign=webpush_notificacao",
-        "resumo": "Após passar pela CCJ do Senado em setembro e depois ser votada com um novo parecer do senador Tasso Jereissati (PSDB), o texto da reforma foi aprovado no dia 1º por 17 votos a 9"
-      },
-      {
-        "finalizada": true,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": "2019-10-01",
-        "link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-texto-base-da-reforma-da-previdencia-em-1-turno-por-56-votos-a-19,70003033318",
-        "resumo": "O plenário do Senado aprovou, por 56 votos a 19, o texto-base da reforma da Previdência em primeiro turno. Economia esperada em dez anos é de R$ 800,3 bilhões."
-      },
-      {
-        "finalizada": true,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": "2019-10-22",
-        "link": "https://economia.estadao.com.br/noticias/geral,apos-mais-de-20-anos-e-cinco-presidentes-reforma-da-previdencia-e-aprovada,70003059826",
-        "resumo": "Após anos de tentativas empreendidas por diferentes governos, o Congresso Nacional aprovou a criação de uma idade mínima para aposentadoria no Brasil."
-      },
-      {
-        "finalizada": true,
-        "título": "Reforma passa a valer",
-        "data": "2019-11-12",
-        "link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-passa-a-valer-hoje-saiba-o-que-muda,70003085758",
-        "resumo": "Após oito meses de tramitação no Congresso, texto com mudanças na aposentadoria foi promulgado nesta terça-feira (12)."
-      }
-    ]
-  },
-  {
-    "título": "Reforma da Previdência dos Militares",
-    "orgão": "Ministério da Defesa",
-    "tipo": "PEC",
-    "número": 0,
-    "ano": 2019,
-    "resumo": "O Ministério da Defesa encaminhou ao Ministério da Economia, em março, a reforma da previdência dos militares, com modificações em cinco leis.",
-    "status": "Concluído",
-    "hoje": "Comissão especial",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto",
-        "data": "2019-03-13",
-        "link": "https://economia.estadao.com.br/noticias/geral,ministerio-da-defesa-entrega-proposta-de-reforma-da-previdencia-de-militares-a-economia,70002754561",
-        "resumo": "A proposta inicial da reforma da Previdência previa uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
-      },
-      {
-        "finalizada": true,
-        "título": "Câmara aprova texto",
-        "data": "2019-10-23",
-        "link": "https://economia.estadao.com.br/noticias/geral,comissao-da-camara-aprova-novas-regras-para-previdencia-de-militares,70003060936",
-        "resumo": "A comissão especial da Câmara dos Deputados que analisa a reforma da Previdência dos militares aprovou em outubro o texto-base do projeto de lei que altera as regras de aposentadoria dos integrantes das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares."
-      },
-      {
-        "finalizada": true,
-        "título": "Aprovação pelo Senado",
-        "data": "2019-12-03",
-        "link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-reforma-da-previdencia-de-militares-com-aumento-de-salario-para-a-carreira,70003113772",
-        "resumo": "O plenário do Senado aprovou em votação simbólica, nesta quarta-feira, 4, o projeto de reforma na aposentadoria dos militares das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares. Agora, segue para sanção do presidente da República."
-      }
-    ]
-  },
-  {
-    "título": "Plano Mais Brasil",
-    "orgão": "Ministério da Economia",
-    "tipo": "PEC",
-    "número": 0,
-    "ano": 2019,
-    "resumo": "Em pacote de reformas, governo propõe dividir R$ 400 bi do pré-sal com Estados e municípios. Medidas também preveem o fim de municípios com até 5 mil habitantes.",
-    "status": "Em andamento",
-    "hoje": "Apresentação do Projeto ao Congresso",
-    "etapas": [{
-        "finalizada": false,
-        "título": "Apresentação do Projeto ao Congresso",
-        "data": "2019-11-05",
-        "link": "https://economia.estadao.com.br/noticias/geral,guedes-entrega-primeira-parte-de-novo-pacote-de-reformas-veja-quais-sao-as-medidas,70003076456",
-        "resumo": "O plano é a principal tentativa da equipe econômica para mudar a gestão das contas públicas nas três esferas de governo, com a criação de um novo marco institucional para o País quase 20 anos depois da aprovação da Lei de Responsabilidade Fiscal (LRF). "
-      }
-    ]
-  },
-  {
-    "título": "Revisão de benefícios do INSS",
-    "orgão": "Ministério da Economia",
-    "tipo": "Medida provisória",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Pente-fino do INSS que pode gerar uma economia de R$ 9,8 bi aos cofres públicos. MP foi aprovada pelo Senado em 4 de junho",
-    "status": "Concluído",
-    "hoje": "MP editada",
-    "etapas": [{
-      "finalizada": true,
-      "título": "MP editada",
-      "data": "2019-01-18",
-      "link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
-      "resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP"
-    }]
-  },
-  {
-    "título": "13º do Bolsa Família",
-    "orgão": "Ministério da Cidadania",
-    "tipo": "Decreto ou Alteração na LOA",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
-    "status": "Concluído",
-    "hoje": "Anúncio de oficialização",
-    "etapas": [
-      {
-        "finalizada": true,
-        "título": "Assinatura da medida provisória",
-        "data": "2019-10-15",
-        "link": "https://educacao.estadao.com.br/noticias/geral,ao-avancar-no-ensino-domiciliar-bolsonaro-prioriza-7-mil-em-vez-de-trabalhar-para-45-milhoes,70002788558",
-        "resumo": "O presidente Jair Bolsonaro assinou na terça-feira, 15, medida provisória para garantir pagamento da 13ª parcela do Bolsa Família."
-      }
-    ]
-  },
-  {
-    "título": "Ampliação do prazo de validade da DAP do Pronaf",
-    "orgão": "Ministério da Agricultura",
-    "tipo": "Portaria ministerial",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Alteração do prazo de validade da Declaração de Aptidão (DAP) ao Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) de um para dois anos",
-    "status": "Concluído",
-    "hoje": "Portaria assinada",
-    "etapas": [{
-      "finalizada": true,
-      "título": "Assinatura da portaria",
-      "data": "2019-01-30",
-      "link": null,
-      "resumo": "Portaria assinada por Tereza Cristina altera a publicada em agosto de 2018, que fixava a validade da DAP até 27 de fevereiro e o prazo para a emissão em um ano"
-    }]
-  },
-  {
-    "título": "Flexibilização da posse de armas",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Após revogar os decretos que havia assinado sobre o tema, governo Bolsonaro tenta flexibilizar posse de armas via Projeto de Lei",
-    "status": "Em andamento",
-    "hoje": "Apresentação na Câmara (em discussão)",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-06-26",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
-        "resumo": "O presidente da Câmara, Rodrigo Maia, afirmou que uma lei sobre o tema dará mais garantia para as mudanças que venham a ser feitas nas atuais regras. 'O governo compreendeu que é o melhor caminho'"
-      },
-      {
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "CCJ do Senado",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Novas regras da CNH",
-    "orgão": "Ministério da Infraestrutura",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Promessa de campanha, presidente quer aumentar validade da carteira de habilitação e também número de pontos para suspensão da habilitação",
-    "status": "Em andamento",
-    "hoje": "Apresentação na Câmara (em discussão)",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-06-04",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-entrega-ao-congresso-projeto-que-quer-alterar-a-cnh,70002855530",
-        "resumo": "A proposta entregue por Jair Bolsonaro dobra o número de pontos para a suspensão da Carteira Nacional de Habilitação (CNH) de 20 para 40 e também duplica a validade do documento, passando para dez anos."
-      },
-      {
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "CCJ do Senado",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Escola sem Partido",
-    "orgão": "Ministério da Educação",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Bandeira política de Bolsonaro, projeto diz tentar evitar a doutrinação ideológica em sala de aula. Diversas versões do projeto já foram apresentadas na Câmara desde 2014",
-    "status": "Em andamento",
-    "hoje": "Apresentação do projeto na Câmara",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara e no Senado",
-        "data": "2019-02-05",
-        "link": "https://educacao.estadao.com.br/noticias/geral,novo-escola-sem-partido-preve-gravacao-de-aulas,70002709394",
-        "resumo": "Projeto protocolado pela deputada Bia Kicis (PSL-DF) quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
-      },
-      {
-        "finalizada": false,
-        "título": "Apresentação do Projeto no Senado",
-        "data": "",
-        "link": null,
-        "resumo": ""
-      },
-      {
-        "finalizada": false,
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Reforma tributária",
-    "orgão": "Ministério da Economia",
-    "tipo": "PEC",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Bandeira eleitoral de Bolsonaro, visa simplificar os impostos no País. Sem ação do governo, deputados fazem avançar uma proposta própria",
-    "status": "Em andamento",
-    "hoje": "Comissão especial",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-05-22",
-        "link": "https://economia.estadao.com.br/noticias/geral,camara-desiste-de-esperar-governo-e-avanca-com-reforma-tributaria-propria,70002838304",
-        "resumo": "Câmara desiste de esperar governo e avança com reforma tributária própria"
-      },
-      {
-        "finalizada": true,
-        "título": "CCJ da Câmara",
-        "data": "2019-05-22",
-        "link": "https://economia.estadao.com.br/noticias/geral,francischini-diz-que-vai-convocar-ccj-extraordinaria-para-votar-reforma-tributaria,70002838957",
-        "resumo": "Câmara aprovou a admissibilidade da reforma tributária de autoria do líder do MDB, Baleia Rossi (SP)"
-      },
-      {
-        "finalizada": false,
-        "título": "Comissão especial",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "CCJ do Senado",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Autonomia do Banco Central",
-    "orgão": "Banco Central",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "O governo diz querer 'consagrar em lei a situação de fato hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
-    "status": "Em andamento",
-    "hoje": "Projeto enviado à Câmara",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-04-10",
-        "link": "https://economia.estadao.com.br/noticias/geral,onyx-diz-que-projeto-de-autonomia-do-bc-faz-apenas-ajustes-em-texto-que-ja-tramita-na-camara,70002787726",
-        "resumo": "Onyx diz que projeto de autonomia do BC faz apenas 'ajustes' em texto que já tramita na Câmara"
-      },
-      {
-        "finalizada": false,
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Programa Alfabetização acima de tudo",
-    "orgão": "Ministério da Educação",
-    "tipo": "Decreto",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Programa nacional de definição de soluções didáticas e pedagógicas para alfabetização, com a proposição de método para redução do analfabetismo a partir de evidências científicas.",
-    "status": "Em andamento",
-    "hoje": "Decreto assinado",
-    "etapas": [{
-      "finalizada": true,
-      "título": "Assinatura do decreto",
-      "data": "2019-04-11",
-      "link": "https://educacao.estadao.com.br/noticias/geral,decreto-do-governo-federal-sobre-alfabetizacao-destaca-metodo-fonico-e-familia,70002788604",
-      "resumo": "A medida, segundo a Secom, estabelece as 'diretrizes para as futuras ações e programas do governo' com o objetivo de reduzir o analfabetismo. O texto ainda não foi divulgado."
-    }]
-  },
-  {
-    "título": "Ensino domiciliar",
-    "orgão": "Ministério da Mulher, Família e Direitos Humanos e Ministério da Educação",
-    "tipo": "PL",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Regulamentar o direito à educação domiciliar, reconhecido pelo STF, por meio de Medida Provisória, beneficiando famílias que se utilizam desse modo de aprendizagem. ",
-    "status": "Em andamento",
-    "hoje": "Projeto apresentado à Câmara",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Apresentação do Projeto na Câmara",
-        "data": "2019-04-12",
-        "link": "https://educacao.estadao.com.br/noticias/geral,ao-avancar-no-ensino-domiciliar-bolsonaro-prioriza-7-mil-em-vez-de-trabalhar-para-45-milhoes,70002788558",
-        "resumo": "Homeschooling se tornou uma pauta da bancada evangélica, que ajudou a eleger Bolsonaro."
-      },
-      {
-        "finalizada": false,
-        "título": "Comissões",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário da Câmara – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Primeiro Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      },
-      {
-        "finalizada": false,
-        "título": "Plenário do Senado – Segundo Turno",
-        "data": null,
-        "link": null,
-        "resumo": null
-      }
-    ]
-  },
-  {
-    "título": "Decreto da posse de armas (direito de adquirir uma arma)",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "Decreto",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Decreto assinado em janeiro, foi alvo de um Projeto de Decreto Legislativo que o sustaria. Decredo revogado",
-    "status": "Cancelado",
-    "hoje": "Decreto assinado e posteriormente revogado",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Assinatura do decreto",
-        "data": "2019-01-15",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
-        "resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
-      },
-      {
-        "finalizada": true,
-        "título": "Decreto revogado",
-        "data": "2019-06-25",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
-        "resumo": "Bolsonaro decidiu enviar ao Congresso um projeto de lei para tratar de registro, posse e comercialização de armas de fogo e munição e também sobre o Sistema Nacional de Armas"
-      }
-    ]
-  },
-  {
-    "título": "Decreto do porte de armas (direito de circular armado)",
-    "orgão": "Ministério da Justiça e Segurança Pública",
-    "tipo": "Decreto",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Decreto assinado em maio, também alvo do mesmo Projeto de Decreto Legislativo que o sustaria. Foi revogado",
-    "status": "Cancelado",
-    "hoje": "Decreto assinado e posteriormente revogado",
-    "etapas": [{
-        "finalizada": true,
-        "título": "Assinatura do decreto",
-        "data": "2019-05-21",
-        "link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
-        "resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
-      },
-      {
-        "finalizada": true,
-        "título": "Decreto revogado",
-        "data": "2019-06-25",
-        "link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
-        "resumo": "Bolsonaro revoga decreto de porte, assim como o de posse de armas"
-      }
-    ]
-  },
-  {
-    "título": "Mudar embaixada do Brasil em Israel",
-    "orgão": "Ministério das Relações Exteriores",
-    "tipo": "Não requer ação oficial",
-    "número": 6,
-    "ano": 2019,
-    "resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
-    "status": "Aguardando ação",
-    "hoje": "Apresentação no Senado (em discussão)",
-    "etapas": [
+[{
+		"título": "Pacote anticrime",
+		"orgão": "Ministério da Justiça e Segurança Pública",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Principal projeto do ministro Sérgio Moro para a área de Segurança Pública, também abrange o combate à corrupção. Foi desmembrado em três projetos de lei.",
+		"status": "Em andamento",
+		"hoje": "Apresentação no Senado (em discussão)",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara e no Senado",
+				"data": "2019-04-01",
+				"link": "https://politica.estadao.com.br/noticias/geral,senadores-decidem-adotar-pacote-anticrime-de-moro,70002774922",
+				"resumo": "Após um acordo com o presidente da Câmara, Rodrigo Maia (DEM-RJ), os três projetos passaram a tramitar em paralelo tanto na Câmara como no Senado, neste caso por meio de projetos de lei “adotados” por senadores."
+			},
+			{
+				"finalizada": true,
+				"título": "Grupo de trabalho na Câmara analisa projeto",
+				"data": "2019-07-09",
+				"link": "https://politica.estadao.com.br/noticias/geral,grupo-de-trabalho-da-camara-rejeita-proposta-de-prisao-apos-condenacao-em-2-instancia,70002914370",
+				"resumo": "O grupo de trabalho da Câmara dos Deputados criado para analisar o pacote anticrime apresentado pelo ex-juiz Sérgio Moro decidiu, por 7 votos a 6, retirar do texto a possibilidade de prisão após condenação em segunda instância."
+			},
+			{
+				"finalizada": true,
+				"título": "Câmara aprova pacote anticrime ",
+				"data": "2019-12-04",
+				"link": "https://politica.estadao.com.br/noticias/geral,camara-aprova-versao-desidratada-de-pacote-de-moro,70003113933",
+				"resumo": "Após dez meses de negociações, a Câmara aprovou nesta quarta-feira, 4, por 408 votos a favor, 9 contra e 2 abstenções, o pacote anticrime do ministro da Justiça, Sérgio Moro, desidratado e sem as principais propostas apresentadas em fevereiro pelo ex-juiz da Lava Jato."
+			},
+			{
+				"finalizada": true,
+				"título": "Senado – CCJ",
+				"data": "2019-12-10",
+				"link": "https://politica.estadao.com.br/noticias/geral,ccj-do-senado-aprova-pacote-anticrime-da-camara-e-texto-vai-a-plenario,70003120562",
+				"resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou o pacote aprovado pela Câmara e agora o texto vai para o plenário"
+			},
+			{
+				"finalizada": false,
+				"título": "Senado – Plenário - 1º turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Senado – Plenário - 2º turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Reforma da Previdência",
+		"orgão": "Ministério da Economia",
+		"tipo": "PEC",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Considerada a principal meta do governo, a reforma vai mudar as regras do sistema previdenciário brasileiro com o objetivo de conter o déficit das contas públicas",
+		"status": "Concluído",
+		"hoje": "Comissão especial",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto",
+				"data": "2019-02-20",
+				"link": "https://economia.estadao.com.br/ao-vivo/entregatextoprevidencia",
+				"resumo": "A proposta inicial da reforma da Previdência previa uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
+			},
+			{
+				"finalizada": true,
+				"título": "CCJ da Câmara",
+				"data": "2019-04-24",
+				"link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-e-aprovada-na-ccj-por-48-votos-a-favor-e-18-contra,70002801858",
+				"resumo": "Depois de 62 dias, a CCJ da Câmara deu o sinal verde para a proposta, que segue agora para análise de mérito na comissão especial. A admissibilidade foi aprovada por 48 votos a 18."
+			},
+			{
+				"finalizada": true,
+				"título": "Comissão especial",
+				"data": "2019-07-04",
+				"link": "https://economia.estadao.com.br/ao-vivo/novo-parecer-reforma-da-previdencia",
+				"resumo": "Relatório do deputado Samuel Moreira (PSDB-SP) foi aprovado com 36 votos a favor e 13 contra. Economia em dez anos está estimada em R$ 930 bilhões."
+			},
+			{
+				"finalizada": true,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": "2019-07-10",
+				"link": "https://economia.estadao.com.br/noticias/geral,camara-aprova-texto-base-da-reforma-da-previdencia-em-1-turno,70002916660",
+				"resumo": "A Câmara dos Deputados aprovou com 379 votos em 1º turno nesta quarta-feira, 10, o texto-base da reforma da Previdência. 131 deputados votaram contra o texto."
+			},
+			{
+				"finalizada": true,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": "2019-08-07",
+				"link": "https://economia.estadao.com.br/noticias/geral,camara-aprova-texto-base-da-reforma-e-governo-age-para-evitar-mudancas,70002957896",
+				"resumo": "A Câmara dos Deputados aprovou na madrugada de quarta-feira, 7, em segundo turno, o texto-base da reforma da Previdência por 370 votos a 124."
+			},
+			{
+				"finalizada": true,
+				"título": "CCJ do Senado",
+				"data": "2019-10-01",
+				"link": "https://economia.estadao.com.br/ao-vivo/ccj-senado-vota-reforma-da-previdencia?utm_source=webpush_notificacao&utm_medium=webpush_notificacao&utm_campaign=webpush_notificacao",
+				"resumo": "Após passar pela CCJ do Senado em setembro e depois ser votada com um novo parecer do senador Tasso Jereissati (PSDB), o texto da reforma foi aprovado no dia 1º por 17 votos a 9"
+			},
+			{
+				"finalizada": true,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": "2019-10-01",
+				"link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-texto-base-da-reforma-da-previdencia-em-1-turno-por-56-votos-a-19,70003033318",
+				"resumo": "O plenário do Senado aprovou, por 56 votos a 19, o texto-base da reforma da Previdência em primeiro turno. Economia esperada em dez anos é de R$ 800,3 bilhões."
+			},
+			{
+				"finalizada": true,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": "2019-10-22",
+				"link": "https://economia.estadao.com.br/noticias/geral,apos-mais-de-20-anos-e-cinco-presidentes-reforma-da-previdencia-e-aprovada,70003059826",
+				"resumo": "Após anos de tentativas empreendidas por diferentes governos, o Congresso Nacional aprovou a criação de uma idade mínima para aposentadoria no Brasil."
+			},
+			{
+				"finalizada": true,
+				"título": "Reforma passa a valer",
+				"data": "2019-11-12",
+				"link": "https://economia.estadao.com.br/noticias/geral,reforma-da-previdencia-passa-a-valer-hoje-saiba-o-que-muda,70003085758",
+				"resumo": "Após oito meses de tramitação no Congresso, texto com mudanças na aposentadoria foi promulgado nesta terça-feira (12)."
+			}
+		]
+	},
+	{
+		"título": "Reforma da Previdência dos Militares",
+		"orgão": "Ministério da Defesa",
+		"tipo": "PEC",
+		"número": 0,
+		"ano": 2019,
+		"resumo": "O Ministério da Defesa encaminhou ao Ministério da Economia, em março, a reforma da previdência dos militares, com modificações em cinco leis.",
+		"status": "Concluído",
+		"hoje": "Comissão especial",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto",
+				"data": "2019-03-13",
+				"link": "https://economia.estadao.com.br/noticias/geral,ministerio-da-defesa-entrega-proposta-de-reforma-da-previdencia-de-militares-a-economia,70002754561",
+				"resumo": "A proposta inicial da reforma da Previdência previa uma economia de R$ 1,164 trilhão em dez anos nas despesas públicas, segundo o Ministério da Economia. O valor da economia foi antecipado pelo Estadão/Broadcast. Nos quatro anos de Governo Bolsonaro, a economia esperada será de R$ 189 bilhões."
+			},
+			{
+				"finalizada": true,
+				"título": "Câmara aprova texto",
+				"data": "2019-10-23",
+				"link": "https://economia.estadao.com.br/noticias/geral,comissao-da-camara-aprova-novas-regras-para-previdencia-de-militares,70003060936",
+				"resumo": "A comissão especial da Câmara dos Deputados que analisa a reforma da Previdência dos militares aprovou em outubro o texto-base do projeto de lei que altera as regras de aposentadoria dos integrantes das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares."
+			},
+			{
+				"finalizada": true,
+				"título": "Aprovação pelo Senado",
+				"data": "2019-12-03",
+				"link": "https://economia.estadao.com.br/noticias/geral,senado-aprova-reforma-da-previdencia-de-militares-com-aumento-de-salario-para-a-carreira,70003113772",
+				"resumo": "O plenário do Senado aprovou em votação simbólica, nesta quarta-feira, 4, o projeto de reforma na aposentadoria dos militares das Forças Armadas, policiais militares e bombeiros. O texto também trata da reestruturação das carreiras militares. Agora, segue para sanção do presidente da República."
+			}
+		]
+	},
+	{
+		"título": "Plano Mais Brasil",
+		"orgão": "Ministério da Economia",
+		"tipo": "PEC",
+		"número": 0,
+		"ano": 2019,
+		"resumo": "Em pacote de reformas, governo propõe dividir R$ 400 bi do pré-sal com Estados e municípios. Medidas também preveem o fim de municípios com até 5 mil habitantes.",
+		"status": "Em andamento",
+		"hoje": "Apresentação do Projeto ao Congresso",
+		"etapas": [{
+			"finalizada": false,
+			"título": "Apresentação do Projeto ao Congresso",
+			"data": "2019-11-05",
+			"link": "https://economia.estadao.com.br/noticias/geral,guedes-entrega-primeira-parte-de-novo-pacote-de-reformas-veja-quais-sao-as-medidas,70003076456",
+			"resumo": "O plano é a principal tentativa da equipe econômica para mudar a gestão das contas públicas nas três esferas de governo, com a criação de um novo marco institucional para o País quase 20 anos depois da aprovação da Lei de Responsabilidade Fiscal (LRF). "
+		}]
+	},
+	{
+		"título": "Revisão de benefícios do INSS",
+		"orgão": "Ministério da Economia",
+		"tipo": "Medida provisória",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Pente-fino do INSS que pode gerar uma economia de R$ 9,8 bi aos cofres públicos. MP foi aprovada pelo Senado em 4 de junho",
+		"status": "Concluído",
+		"hoje": "MP editada",
+		"etapas": [{
+			"finalizada": true,
+			"título": "MP editada",
+			"data": "2019-01-18",
+			"link": "https://economia.estadao.com.br/noticias/geral,mp-antifraude-cria-carencia-de-24-meses-para-inss-conceder-auxilio-reclusao,70002685330",
+			"resumo": "O governo espera economizar R$ 9,8 bilhões nos próximos 12 meses com as iniciativas antifraudes em benefícios previdenciários e assistenciais, previstas na MP"
+		}]
+	},
+	{
+		"título": "13º do Bolsa Família",
+		"orgão": "Ministério da Cidadania",
+		"tipo": "Decreto ou Alteração na LOA",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Promessa de campanha. Pode exigir alteração na Lei Orçamentária Anual, com suplementação de dotação.",
+		"status": "Concluído",
+		"hoje": "Anúncio de oficialização",
+		"etapas": [{
+			"finalizada": true,
+			"título": "Assinatura da medida provisória",
+			"data": "2019-10-15",
+			"link": "https://educacao.estadao.com.br/noticias/geral,ao-avancar-no-ensino-domiciliar-bolsonaro-prioriza-7-mil-em-vez-de-trabalhar-para-45-milhoes,70002788558",
+			"resumo": "O presidente Jair Bolsonaro assinou na terça-feira, 15, medida provisória para garantir pagamento da 13ª parcela do Bolsa Família."
+		}]
+	},
+	{
+		"título": "Ampliação do prazo de validade da DAP do Pronaf",
+		"orgão": "Ministério da Agricultura",
+		"tipo": "Portaria ministerial",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Alteração do prazo de validade da Declaração de Aptidão (DAP) ao Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) de um para dois anos",
+		"status": "Concluído",
+		"hoje": "Portaria assinada",
+		"etapas": [{
+			"finalizada": true,
+			"título": "Assinatura da portaria",
+			"data": "2019-01-30",
+			"link": null,
+			"resumo": "Portaria assinada por Tereza Cristina altera a publicada em agosto de 2018, que fixava a validade da DAP até 27 de fevereiro e o prazo para a emissão em um ano"
+		}]
+	},
+	{
+		"título": "Flexibilização da posse de armas",
+		"orgão": "Ministério da Justiça e Segurança Pública",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Após revogar os decretos que havia assinado sobre o tema, governo Bolsonaro tenta flexibilizar posse de armas via Projeto de Lei",
+		"status": "Em andamento",
+		"hoje": "Apresentação na Câmara (em discussão)",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara",
+				"data": "2019-06-26",
+				"link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
+				"resumo": "O presidente da Câmara, Rodrigo Maia, afirmou que uma lei sobre o tema dará mais garantia para as mudanças que venham a ser feitas nas atuais regras. 'O governo compreendeu que é o melhor caminho'"
+			},
+			{
+				"título": "Comissões",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "CCJ do Senado",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Novas regras da CNH",
+		"orgão": "Ministério da Infraestrutura",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Promessa de campanha, presidente quer aumentar validade da carteira de habilitação e também número de pontos para suspensão da habilitação",
+		"status": "Em andamento",
+		"hoje": "Apresentação na Câmara (em discussão)",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara",
+				"data": "2019-06-04",
+				"link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-entrega-ao-congresso-projeto-que-quer-alterar-a-cnh,70002855530",
+				"resumo": "A proposta entregue por Jair Bolsonaro dobra o número de pontos para a suspensão da Carteira Nacional de Habilitação (CNH) de 20 para 40 e também duplica a validade do documento, passando para dez anos."
+			},
+			{
+				"título": "Comissões",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "CCJ do Senado",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Escola sem Partido",
+		"orgão": "Ministério da Educação",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Bandeira política de Bolsonaro, projeto diz tentar evitar a doutrinação ideológica em sala de aula. Diversas versões do projeto já foram apresentadas na Câmara desde 2014",
+		"status": "Em andamento",
+		"hoje": "Apresentação do projeto na Câmara",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara e no Senado",
+				"data": "2019-02-05",
+				"link": "https://educacao.estadao.com.br/noticias/geral,novo-escola-sem-partido-preve-gravacao-de-aulas,70002709394",
+				"resumo": "Projeto protocolado pela deputada Bia Kicis (PSL-DF) quer tornar lei o direito dos alunos de gravar aula, “a fim de permitir a melhor absorção do conteúdo ministrado e de viabilizar o pleno exercício do direito dos pais ou responsáveis de ter ciência do processo pedagógico e avaliar a qualidade dos serviços prestados”."
+			},
+			{
+				"finalizada": false,
+				"título": "Apresentação do Projeto no Senado",
+				"data": "",
+				"link": null,
+				"resumo": ""
+			},
+			{
+				"finalizada": false,
+				"título": "Comissões",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Reforma tributária",
+		"orgão": "Ministério da Economia",
+		"tipo": "PEC",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Bandeira eleitoral de Bolsonaro, visa simplificar os impostos no País. Sem ação do governo, deputados fazem avançar uma proposta própria",
+		"status": "Em andamento",
+		"hoje": "Comissão especial",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara",
+				"data": "2019-05-22",
+				"link": "https://economia.estadao.com.br/noticias/geral,camara-desiste-de-esperar-governo-e-avanca-com-reforma-tributaria-propria,70002838304",
+				"resumo": "Câmara desiste de esperar governo e avança com reforma tributária própria"
+			},
+			{
+				"finalizada": true,
+				"título": "CCJ da Câmara",
+				"data": "2019-05-22",
+				"link": "https://economia.estadao.com.br/noticias/geral,francischini-diz-que-vai-convocar-ccj-extraordinaria-para-votar-reforma-tributaria,70002838957",
+				"resumo": "Câmara aprovou a admissibilidade da reforma tributária de autoria do líder do MDB, Baleia Rossi (SP)"
+			},
+			{
+				"finalizada": false,
+				"título": "Comissão especial",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "CCJ do Senado",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Autonomia do Banco Central",
+		"orgão": "Banco Central",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "O governo diz querer 'consagrar em lei a situação de fato hoje existente, na qual a autoridade monetária goza de autonomia operacional e técnica para cumprir as metas de inflação'",
+		"status": "Em andamento",
+		"hoje": "Projeto enviado à Câmara",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara",
+				"data": "2019-04-10",
+				"link": "https://economia.estadao.com.br/noticias/geral,onyx-diz-que-projeto-de-autonomia-do-bc-faz-apenas-ajustes-em-texto-que-ja-tramita-na-camara,70002787726",
+				"resumo": "Onyx diz que projeto de autonomia do BC faz apenas 'ajustes' em texto que já tramita na Câmara"
+			},
+			{
+				"finalizada": false,
+				"título": "Comissões",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Programa Alfabetização acima de tudo",
+		"orgão": "Ministério da Educação",
+		"tipo": "Decreto",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Programa nacional de definição de soluções didáticas e pedagógicas para alfabetização, com a proposição de método para redução do analfabetismo a partir de evidências científicas.",
+		"status": "Em andamento",
+		"hoje": "Decreto assinado",
+		"etapas": [{
+			"finalizada": true,
+			"título": "Assinatura do decreto",
+			"data": "2019-04-11",
+			"link": "https://educacao.estadao.com.br/noticias/geral,decreto-do-governo-federal-sobre-alfabetizacao-destaca-metodo-fonico-e-familia,70002788604",
+			"resumo": "A medida, segundo a Secom, estabelece as 'diretrizes para as futuras ações e programas do governo' com o objetivo de reduzir o analfabetismo. O texto ainda não foi divulgado."
+		}]
+	},
+	{
+		"título": "Ensino domiciliar",
+		"orgão": "Ministério da Mulher, Família e Direitos Humanos e Ministério da Educação",
+		"tipo": "PL",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Regulamentar o direito à educação domiciliar, reconhecido pelo STF, por meio de Medida Provisória, beneficiando famílias que se utilizam desse modo de aprendizagem. ",
+		"status": "Em andamento",
+		"hoje": "Projeto apresentado à Câmara",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Apresentação do Projeto na Câmara",
+				"data": "2019-04-12",
+				"link": "https://educacao.estadao.com.br/noticias/geral,ao-avancar-no-ensino-domiciliar-bolsonaro-prioriza-7-mil-em-vez-de-trabalhar-para-45-milhoes,70002788558",
+				"resumo": "Homeschooling se tornou uma pauta da bancada evangélica, que ajudou a eleger Bolsonaro."
+			},
+			{
+				"finalizada": false,
+				"título": "Comissões",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário da Câmara – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Primeiro Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			},
+			{
+				"finalizada": false,
+				"título": "Plenário do Senado – Segundo Turno",
+				"data": null,
+				"link": null,
+				"resumo": null
+			}
+		]
+	},
+	{
+		"título": "Decreto da posse de armas (direito de adquirir uma arma)",
+		"orgão": "Ministério da Justiça e Segurança Pública",
+		"tipo": "Decreto",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Decreto assinado em janeiro, foi alvo de um Projeto de Decreto Legislativo que o sustaria. Decredo revogado",
+		"status": "Cancelado",
+		"hoje": "Decreto assinado e posteriormente revogado",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Assinatura do decreto",
+				"data": "2019-01-15",
+				"link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-assina-decreto-que-facilita-posse-de-arma-de-fogo,70002680184",
+				"resumo": "Entre as mudanças, foi ampliado o prazo de validade do registro de armas de 5 para 10 anos, tanto para civis como para militares. Também não será mais preciso comprovar a “necessidade efetiva” para a obtenção da posse. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+			},
+			{
+				"finalizada": true,
+				"título": "Decreto revogado",
+				"data": "2019-06-25",
+				"link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
+				"resumo": "Bolsonaro decidiu enviar ao Congresso um projeto de lei para tratar de registro, posse e comercialização de armas de fogo e munição e também sobre o Sistema Nacional de Armas"
+			}
+		]
+	},
+	{
+		"título": "Decreto do porte de armas (direito de circular armado)",
+		"orgão": "Ministério da Justiça e Segurança Pública",
+		"tipo": "Decreto",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Decreto assinado em maio, também alvo do mesmo Projeto de Decreto Legislativo que o sustaria. Foi revogado",
+		"status": "Cancelado",
+		"hoje": "Decreto assinado e posteriormente revogado",
+		"etapas": [{
+				"finalizada": true,
+				"título": "Assinatura do decreto",
+				"data": "2019-05-21",
+				"link": "https://brasil.estadao.com.br/noticias/geral,veja-o-novo-decreto-das-armas-de-bolsonaro-na-integra,70002838859",
+				"resumo": "Novo texto inclui 'vedação expressa' à concessão de armas de fogo portáteis, como fuzis e carabinas, ao cidadão comum. Mudanças ainda valem, apesar do veto do Senado. PDL vai para a Câmara"
+			},
+			{
+				"finalizada": true,
+				"título": "Decreto revogado",
+				"data": "2019-06-25",
+				"link": "https://brasil.estadao.com.br/noticias/geral,bolsonaro-revoga-decreto-de-armas,70002887495",
+				"resumo": "Bolsonaro revoga decreto de porte, assim como o de posse de armas"
+			}
+		]
+	},
+	{
+		"título": "Mudar embaixada do Brasil em Israel",
+		"orgão": "Ministério das Relações Exteriores",
+		"tipo": "Não requer ação oficial",
+		"número": 6,
+		"ano": 2019,
+		"resumo": "Outra promessa feita em campanha. Muda a relação diplomática entre os países com o reconhecimento de Jerusalém como capital. Demanda articulação com Israel",
+		"status": "Aguardando ação",
+		"hoje": "Apresentação no Senado (em discussão)",
+		"etapas": [
 
-    ]
-  }
+		]
+	}
 ]
