@@ -44,6 +44,38 @@
     }
   ]
 },
+ {
+  "título": "Novo marco do saneamento",
+  "orgão": "Ministério do Meio Ambiente",
+  "tipo": "PL",
+  "número": 4162,
+  "ano": 2019,
+  "resumo": "Proposta amplia espaço de atuação de empresas privadas no setor. Governo federal estima que a universalização dos serviços de saneamento deve envolver investimentos de R$ 600 bilhões a R$ 700 bilhões.",
+  "status": "Concluído",
+  "hoje": "Apresentação na Câmara",
+  "etapas": [{
+      "finalizada": true,
+      "título": "Apresentação do Projeto na Câmara",
+      "data": "2019-08-02",
+      "link": null,
+      "resumo": null
+    },
+    {
+      "finalizada": true,
+      "título": "Comissões",
+      "data": null,
+      "link": null,
+      "resumo": null
+    },
+    {
+      "finalizada": true,
+      "título": "Plenário da Câmara",
+      "data": "2019-12-11",
+      "link": "https://economia.estadao.com.br/noticias/geral,camara-aprova-texto-base-de-novo-marco-de-saneamento,70003122709",
+      "resumo": "Plenário aprova texto-base. A proposta abre espaço para a iniciativa privada atuar com mais força na exploração do setor e institui o regime de licitações aos municípios para a escolha das empresas que prestarão serviços de abastecimento de água, coleta e tratamento de esgoto."
+    }
+  ]
+},
 {
   "título": "Reforma da Previdência",
   "orgão": "Ministério da Economia",
